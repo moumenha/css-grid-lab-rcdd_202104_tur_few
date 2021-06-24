@@ -17,3 +17,6 @@ body {
 }
 
 /* add the .bigItem class */
+.bigItem {
+  grid-area: grid-row-start;
+} 
